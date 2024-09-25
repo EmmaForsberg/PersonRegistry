@@ -185,7 +185,7 @@
             Controls.Add(Persons_GroupBox);
             Controls.Add(CreatePerson_GroupBox);
             Name = "PersonRegistryForm";
-            Text = "Form1";
+            Text = "PersonRegistry";
             CreatePerson_GroupBox.ResumeLayout(false);
             CreatePerson_GroupBox.PerformLayout();
             Persons_GroupBox.ResumeLayout(false);
