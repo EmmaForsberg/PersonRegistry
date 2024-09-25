@@ -11,14 +11,14 @@ using System.Windows.Forms;
 
 namespace Form1
 {
-    public partial class Form1 : Form
+    public partial class PersonRegistryForm : Form
     {
         List<Person> personlist = new List<Person>();
         
         string firstname;
         string lastname;
 
-        public Form1()
+        public PersonRegistryForm()
         {
             InitializeComponent();
             listBoxOutPut.SelectionMode = SelectionMode.MultiSimple;

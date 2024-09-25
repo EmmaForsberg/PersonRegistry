@@ -1,6 +1,6 @@
 ﻿namespace Form1
 {
-    partial class Form1
+    partial class PersonRegistryForm
     {
         /// <summary>
         /// Required designer variable.
@@ -121,7 +121,6 @@
             this.firstnametextbox.Name = "firstnametextbox";
             this.firstnametextbox.Size = new System.Drawing.Size(100, 20);
             this.firstnametextbox.TabIndex = 11;
-           
             // 
             // lastnametextbox
             // 
@@ -177,15 +176,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Persons";
             // 
-            // Form1
+            // PersonRegistryForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(299, 308);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "PersonRegistryForm";
+            this.Text = "PersonRegistry";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
