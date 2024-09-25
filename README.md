@@ -1,19 +1,20 @@
 # PersonRegistry
 
-![Startup](Images/Start.png "start")
+PersonRegistry är en app byggd i WinForms där man kan lägga till en han eller hon och sedan slå ihop dem för att skapa en child samt sortera på namn samt ta bort personer.
+
+![Startup](Images/Start.png "Start")
 
 
-
-![Add Name](Images/Adding_names.png "Add")
-
-
-![Startup](Images/Merge.png "start")
+![Add Name](Images/Add.png "Add")
 
 
-![Startup](Images/Sort.png "start")
+![Merge](Images/Merge.png "Merge")
 
 
-![Startup](Images/Delete.png "start")
+![Sort](Images/Sort.png "Sort")
+
+
+![Remove](Images/Remove.png "Remove")
 
 
 
