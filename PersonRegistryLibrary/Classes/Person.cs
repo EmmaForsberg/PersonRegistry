@@ -49,6 +49,5 @@ namespace PersonRegistryLibrary.Classes
             {
                 return new Child("Child", female.NewFirstName, male.NewLastname);
             }
-        }
-    }
+        }   
 }

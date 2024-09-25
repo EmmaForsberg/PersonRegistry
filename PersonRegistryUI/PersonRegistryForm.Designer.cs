@@ -69,6 +69,7 @@
             Add_Button.TabIndex = 6;
             Add_Button.Text = "Add";
             Add_Button.UseVisualStyleBackColor = true;
+            Add_Button.Click += Add_Button_Click;
             // 
             // Female_RadioButton
             // 
@@ -151,6 +152,7 @@
             SortButton.TabIndex = 2;
             SortButton.Text = "Sort";
             SortButton.UseVisualStyleBackColor = true;
+            SortButton.Click += SortButton_Click;
             // 
             // MergeButton
             // 
@@ -160,6 +162,7 @@
             MergeButton.TabIndex = 3;
             MergeButton.Text = "Merge";
             MergeButton.UseVisualStyleBackColor = true;
+            MergeButton.Click += MergeButton_Click;
             // 
             // Remove_Button
             // 
@@ -169,6 +172,7 @@
             Remove_Button.TabIndex = 4;
             Remove_Button.Text = "Remove";
             Remove_Button.UseVisualStyleBackColor = true;
+            Remove_Button.Click += Remove_Button_Click;
             // 
             // PersonRegistryForm
             // 
